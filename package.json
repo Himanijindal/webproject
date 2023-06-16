@@ -1,7 +1,6 @@
 {
   "name": "webdevelopmentprojectweatherapp",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +8,17 @@
   "author": "Himani",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "hbs": "^4.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanijindal/webproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Himanijindal/webproject/issues"
+  },
+  "homepage": "https://github.com/Himanijindal/webproject#readme",
+  "devDependencies": {},
+  "description": ""
 }
